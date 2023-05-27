@@ -7,11 +7,11 @@ https://colab.research.google.com/drive/1mvhNibXkmLvOfdGMmyqNOwXpMQMS0vBd?usp=sh
 coaching staff) aren’t tech-savvy enough to run code themselves. Propose a
 solution to your product manager that:
 
-a. could allow our coaching staff to request or acquire the output themselves
+a. could allow our coaching staff to request or acquire the output themselves.
 
-we could made it a scrip py file and run it in cmd with inputs from the staff, or staff can learn to run colab
+  We could made it a scrip py file and run it in cmd with inputs from the staff, or the staff can learn to run them on colab.
 
-b. takes less than 1 weeks worth of work to implement
+b. takes less than 1 weeks worth of work to implement.
 
   We just need to add a user py file with import from the ProcessGameState py file.
 	
