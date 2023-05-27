@@ -9,7 +9,7 @@ solution to your product manager that:
 
 a. could allow our coaching staff to request or acquire the output themselves
 
-we could made it a scrip py file and run it in cmd with inputs from the staff.
+we could made it a scrip py file and run it in cmd with inputs from the staff, or staff can learn to run colab
 
 b. takes less than 1 weeks worth of work to implement
 
