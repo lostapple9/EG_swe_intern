@@ -1,3 +1,6 @@
+# Colab Link
+https://colab.research.google.com/drive/1mvhNibXkmLvOfdGMmyqNOwXpMQMS0vBd?usp=sharing
+
 # Evil_Genius
 
 3. (No Coding) Most of the time, our stakeholders (in this case, the CS:GO
