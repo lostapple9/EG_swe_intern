@@ -9,11 +9,11 @@ solution to your product manager that:
 
 a. could allow our coaching staff to request or acquire the output themselves.
 
-  We could made it a scrip py file and run it in cmd with inputs from the staff, or the staff can learn to run them on colab.
+  We could make it a script file and run it in CMD with inputs from the staff, or the staff can learn to run them on Colab.
 
 b. takes less than 1 weeks worth of work to implement.
 
-  We just need to add a user py file with import from the ProcessGameState py file.
+  We just need to add a user.py file with an import statement from the ProcessGameState.py file.
 	
   For example:
 	
